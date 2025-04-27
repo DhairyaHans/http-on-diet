@@ -1,0 +1,16 @@
+{
+  "name": "http-on-diet",
+  "version": "1.0.0",
+  "description": "* A Server-2-Server communication Protocol, which allows services in a microservice architecture to communicate with each other without the extra burden/load of headers in a conventional HTTP connection",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.14.1"
+  },
+  "type": "module"
+}
